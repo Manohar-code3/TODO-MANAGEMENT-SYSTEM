@@ -21,7 +21,7 @@ This project is split into two parts:
 ### 🚀 Backend (Spring Boot)
 - RESTful API for todo management
 - CRUD operations
-- Integrated with H2 or MySQL database
+- Integrated with  MySQL database
 - CORS configured for frontend connection
 
 ---
@@ -32,14 +32,14 @@ This project is split into two parts:
 - Java 17+
 - Spring Boot
 - Spring Web, Spring Data JPA
-- H2/MySQL
+- MySQL
 - Maven
 
 ### 💻 Frontend
 - React + Vite
 - Axios
 - React Router
-- TailwindCSS or Bootstrap (optional)
+- Bootstrap 
 
 ---
 
